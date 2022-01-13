@@ -31,7 +31,6 @@ public class MyFirstTest {
 
     @Test
     public void myFristTest() {
-
             String user = "andrejs-ps";
             driver.get(BASE_URL + user);
 
